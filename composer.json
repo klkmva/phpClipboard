@@ -3,6 +3,7 @@
     "description": "A PHP wrapper for Windows, Linux, and Mac Copy to Clipboard commands",
     "type": "library",
     "license": "MIT",
+	"version": "1.0",
     "authors": [
         {
             "name": "Ed Grosvenor",
