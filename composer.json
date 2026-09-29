@@ -1,0 +1,24 @@
+{
+    "name": "klkmva/php-clipboard",
+    "description": "A PHP wrapper for Windows, Linux, and Mac Copy to Clipboard commands",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ed Grosvenor",
+            "email": "ed.grosvenor@wickedviral.com"
+        },
+		{
+			"name": "Michel Lejeau",
+			"email": "contact@miclej.fr"
+		}
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "klkmva\\PHPClipboard\\": "src/"
+        }
+    }
+}
